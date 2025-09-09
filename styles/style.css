@@ -1,3 +1,21 @@
+
+html {
+    background-color: #1860C3;
+    font-size: 10px;
+    font-family:'Courier New', Courier, monospace';
+}
+h1 {
+    font-size: 45px;
+    text-align:left;
+    color: #ffbf6b;
+}
 p {
-    color: red;
+    color: #ffd6b3;
+}
+.hotbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin-top: 5%;
 }
